@@ -1,6 +1,6 @@
 #coding:utf-8
 
-import platform, logging, os, sys, getopt
+import platform, logging, os, sys
 
 class S3:
     ACCESS_KEY=""
